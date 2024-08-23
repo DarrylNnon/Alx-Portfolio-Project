@@ -4,7 +4,7 @@ This is an online quiz application created as part of my ALX portfolio project. 
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/iadekunle3/quiz-app.git`
+1. Clone the repository: `git clone https://github.com/DarrylNnon/quiz-app.git`
 2. Navigate to the project directory: `cd quiz-app`
 3. Install the dependencies: `npm install`
 
